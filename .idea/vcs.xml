@@ -2,16 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section09-services-DI" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section09-services-assignment" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section11-routing" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section13-observables" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section14-handlingForms" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section3-app" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section5-app" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section5-application" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/section7-derectives-deep-dive" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/the-first-assignment" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/the-third-assignment" vcs="Git" />
   </component>
 </project>
